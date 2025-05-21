@@ -1,0 +1,22 @@
+[
+  { "nucleotide": "A", "color": "#FF5733" },
+  { "nucleotide": "C", "color": "#33FF57" },
+  { "nucleotide": "D", "color": "#3357FF" },
+  { "nucleotide": "E", "color": "#FF33A6" },
+  { "nucleotide": "F", "color": "#FFC300" },
+  { "nucleotide": "G", "color": "#DAF7A6" },
+  { "nucleotide": "H", "color": "#900C3F" },
+  { "nucleotide": "I", "color": "#C70039" },
+  { "nucleotide": "K", "color": "#9d12ca" },
+  { "nucleotide": "L", "color": "#2ECC71" },
+  { "nucleotide": "M", "color": "#1ABC9C" },
+  { "nucleotide": "N", "color": "#7D3C98" },
+  { "nucleotide": "P", "color": "#F39C12" },
+  { "nucleotide": "Q", "color": "#3498DB" },
+  { "nucleotide": "R", "color": "#E74C3C" },
+  { "nucleotide": "S", "color": "#06e01d" },
+  { "nucleotide": "T", "color": "#D35400" },
+  { "nucleotide": "V", "color": "#2980B9" },
+  { "nucleotide": "W", "color": "#6C3483" },
+  { "nucleotide": "Y", "color": "#F1C40F" }
+]
